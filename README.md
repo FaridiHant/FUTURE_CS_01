@@ -17,7 +17,7 @@ The assessment was strictly non-intrusive, focusing on identifying security misc
 - **Target:** juice-shop.herokuapp.com  
 - **Environment:** Public demo application (AWS-hosted)  
 - **Methodology:** Passive / Read-only scanning  
-- **Date:** April 11, 2026  
+  
 
 ---
 
@@ -72,7 +72,7 @@ The assessment was strictly non-intrusive, focusing on identifying security misc
 
 ---
 
-**LinkedIn:** [Your Profile]  
+**LinkedIn:** https://tz.linkedin.com/in/faridi-hant-60b06b344
 **Organization:** https://www.linkedin.com/company/future-interns/
 
 ---
