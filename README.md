@@ -23,18 +23,18 @@ The assessment was strictly non-intrusive, focusing on identifying security misc
 
 ## Tools
 
-- **SecurityHeaders.com** — HTTP security headers analysis  
-- **SSL Labs (Qualys)** — SSL/TLS configuration testing  
-- **Mozilla Observatory** — Security posture evaluation  
+- **SecurityHeaders.com** —> HTTP security headers analysis  
+- **SSL Labs (Qualys)** —> SSL/TLS configuration testing  
+- **Mozilla Observatory** —> Security posture evaluation  
 
 ---
 
 ## Key Findings
 
-- Missing critical security headers (HSTS, CSP) — **High Risk**  
-- No enforced HTTPS redirection — **High Risk**  
-- Multiple missing policy headers — **Medium Risk**  
-- SSL configuration requires optimization — **Medium Risk**  
+- Missing critical security headers (HSTS, CSP) —> **High Risk**  
+- No enforced HTTPS redirection —> **High Risk**  
+- Multiple missing policy headers —> **Medium Risk**  
+- SSL configuration requires optimization —> **Medium Risk**  
 
 ---
 
