@@ -1,4 +1,4 @@
-# FUTURE_CS_01 — Vulnerability Assessment Report
+# Vulnerability Assessment Report
 
 ## Cyber Security Internship | Future Interns 2026
 
